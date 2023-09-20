@@ -35,7 +35,7 @@ export const SOCIALS: SocialMediaObjects = [
         href: "https://github.com/christian-luntok/astro-lane/",
         icon: "ph:instagram-logo-duotone",
         title: `Follow ${SITE.author} on Instagram`,
-        active: false
+        active: true
     },
     {
         name: "LinkedIn",
