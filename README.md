@@ -1,9 +1,9 @@
 <div align="center">
-  <img alt="Astro Lane - Avenue Labs logo" src="/public/icons/avenue-icon-alt.png" width="70" />
+  <img alt="Astro Lane - Fiat Lux Labs logo" src="/public/icons/avenue-icon-alt.png" width="70" />
 </div>
 
 <h1 align="center">
-  Astro Lane - Avenue Labs Astro Theme 🚀
+  Astro Lane - Fiat Lux Labs 🧪
 </h1>
 
 Astro Lane is a customizable blog theme for Astro, designed to provide a personalized touch to your site with ease. The theme offers minimal styling, making it easy for you to tailor it to your needs.
@@ -73,7 +73,7 @@ Licensed under the MIT License, Copyright © 2023
 
 ## Feedback and Suggestions
 
-If you have any suggestions/feedback, you can contact the creator, Christian Luntok, via [hey@avenuelabs.co](mailto:hey@avenuelabs.co). Alternatively, feel free to open an issue if you find bugs or want to request new features.
+If you have any suggestions/feedback, you can contact the creator, Ian McClue, via [ian@fiatluxlabs.co](mailto:ian@fiatluxlabs.co). Alternatively, feel free to open an issue if you find bugs or want to request new features.
 
 ## Credit/Acknowledgements
 
@@ -81,4 +81,4 @@ This theme functionality is loosely based on [Astro Paper](https://github.com/sa
 
 ---
 
-Made by [Christian Luntok - Avenue Labs](https://avenuelabs.co/)
+Made by [Ian McClue - Fiat Lux Labs](https://avenuelabs.co/)

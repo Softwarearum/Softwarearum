@@ -1,16 +1,15 @@
 ---
 pubDate: 2023-04-23
-title: Adding posts in Astro Lane
+title: Coming Soon
 featured: true
 draft: false
 tags:
-    - docs
-    - guide
+    - Coming Soon
 heroImage: ""
-description: "Rules & recommendations for creating or adding posts using Astro Lane."
+description: "Coming Soon"
 ---
 
-Are you planning to create a blog post using the "Astro Lane" theme? Here are some guidelines and recommendations to help you create a great post.
+Coming Soon
 
 ## Table of contents
 
@@ -70,7 +69,7 @@ description: This is the example description of the example post.
 
 ## Adding Table of Contents
 
-By default, the Astro Lane theme does not include any table of contents in a post. However, you can add a table of contents by writing "Table of contents" in H2 format (## in markdown) and placing it where you want it to appear in your post.
+By default, the Fiat Lux Labs theme does not include any table of contents in a post. However, you can add a table of contents by writing "Table of contents" in H2 format (## in markdown) and placing it where you want it to appear in your post.
 
 ```md
 ---
@@ -95,7 +94,7 @@ It's recommended that you compress any images you add to your blog post, as this
 
 ## Headings suggestions
 
-In the Astro Lane theme, the title of the post is the main heading (H1) of the post. Therefore, it's recommended that you use H2 to H6 for the rest of the headings in your content for accessibility and SEO purposes.
+In the Fiat Lux Labs theme, the title of the post is the main heading (H1) of the post. Therefore, it's recommended that you use H2 to H6 for the rest of the headings in your content for accessibility and SEO purposes.
 
 ## OG Image/Hero Image
 
@@ -104,4 +103,4 @@ If your post does not specify an OG image, the default OG image will be used. Ho
 ![This is an example of an OG image generated automatically if heroImage frontmatter is not provided](/adding-posts-in-astro-lane.png)
 _This is an example of an OG image generated automatically if heroImage frontmatter is not provided._
 
-To summarize, when creating a post using the Astro Lane theme, you need to ensure you have the essential frontmatter configuration options, add a table of contents if needed, compress any images you use, use proper headings, and specify an OG image if possible. By following these guidelines, you can create an excellent post that's optimized for SEO and accessibility.
+To summarize, when creating a post using the Fiat Lux Labs theme, you need to ensure you have the essential frontmatter configuration options, add a table of contents if needed, compress any images you use, use proper headings, and specify an OG image if possible. By following these guidelines, you can create an excellent post that's optimized for SEO and accessibility.

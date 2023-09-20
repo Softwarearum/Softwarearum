@@ -1,13 +1,11 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
+title: "Coming Soon"
+description: "Coming Soon"
 pubDate: 2023-04-04
 featured: true
 draft: false
 tags:
-    - docs
-    - guide
-    - markdown
+    - Coming Soon
 heroImage: ""
 ---
 

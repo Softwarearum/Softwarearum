@@ -4,9 +4,9 @@ import type { Site, SocialMediaObjects } from "./types";
 
 export const SITE: Site = {
     siteUrl: "https:/www.astro-lane.avenuelabs.co/", // Always put "/" at the end of the URL
-    author: "Christian Luntok | Avenue Labs",
-    desc: "A personal portfolio landing template for developers and designers. Made by Avenue Labs.",
-    title: "Astro Lane | Avenue Labs",
+    author: "Ian McClue | Fiat Lux Labs",
+    desc: "A personal portfolio landing template for developers and designers. Made by Fiat Lux Labs.",
+    title: "Astro Lane | Fiat Lux Labs",
     ogImage: "images/astro-lane.png",
     keywords:
         "Personal portfolio, landing page, page template, developer portfoliom designer portfolio",
@@ -35,7 +35,7 @@ export const SOCIALS: SocialMediaObjects = [
         href: "https://github.com/christian-luntok/astro-lane/",
         icon: "ph:instagram-logo-duotone",
         title: `Follow ${SITE.author} on Instagram`,
-        active: true
+        active: false
     },
     {
         name: "LinkedIn",
@@ -48,8 +48,8 @@ export const SOCIALS: SocialMediaObjects = [
         name: "Mail",
         href: "mailto:yourmail@gmail.com",
         title: `Send an email to ${SITE.title}`,
-        icon: "",
-        active: false
+        icon: "ph:envelope-simple-bold",
+        active: true
     },
     {
         name: "Twitter",

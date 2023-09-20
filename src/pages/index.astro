@@ -2,7 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import SectionContainer from "@/components/SectionContainer.astro";
 import { Image } from "@astrojs/image/components";
-import profileImage from "../../public/icons/avenue-icon-alt.png";
+import profileImage from "../../public/icons/Fiat-Lux-Labs-logo2.png";
 import projectData from "@/data/projectData.json";
 import CardGroup from "@/components/card/CardGroup.astro";
 import Card from "@/components/card/Card.astro";
@@ -24,8 +24,8 @@ const sortedPosts = posts
 ---
 
 <Layout
-    title="Astro Lane | Avenue Labs"
-    description="Astro Lane is a customizable blog theme that offers minimal styling, making it easy for you to tailor it to your needs. It's a personal portfolio landing template for developers and designers. Made by Avenue Labs"
+    title="Fiat Lux Labs"
+    description="Fiat Lux Labs is a customizable blog theme that offers minimal styling, making it easy for you to tailor it to your needs. It's a personal portfolio landing template for developers and designers. Made by Fiat Lux Labs"
 >
     <div
         class="main-wrapper wrap-sm grid gap-16 px-8 md:gap-24 lg:gap-32 mx-auto"
@@ -33,7 +33,7 @@ const sortedPosts = posts
         <SectionContainer class="hero--container flex flex-col gap-8 mt-32">
             <Image
                 src={profileImage}
-                alt={"Lane - Avenue Labs"}
+                alt={"Lane - Fiat Lux Labs"}
                 width={160}
                 height={160}
                 aspectRatio={1 / 1}
@@ -45,15 +45,15 @@ const sortedPosts = posts
                     <h1
                         class="text-4xl lg:text-3xl font-medium leading-8 lg:leading-10 tracking-tight lg:tracking-tighter mb-0"
                     >
-                        I&apos;m Astro Lane - a theme made by Avenue Labs
+                        Welcome to Fiat Lux Labs
                     </h1>
                 </div>
                 <div
                     class="content text-3xl md:text-3xl font-medium leading-8 lg:leading-10 tracking-tight lg:tracking-tighter text-neutral-500"
                 >
-                    I'm a theme designed for Astro that shows how you can create
-                    a personal blog and showcase your projects using this
-                    starter.
+                    Browse through the years of our projects
+                    from the past to the present, 
+                    enjoy ;)
                 </div>
             </div>
         </SectionContainer>

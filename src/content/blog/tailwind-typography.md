@@ -1,14 +1,12 @@
 ---
-title: Tailwind Typography Plugin
+title: Coming Soon
 pubDate: 2023-04-21
 featured: false
 draft: false
 tags:
-    - tailwind
-    - astro
-    - markdown
+    - Coming Soon
 heroImage: ""
-description: "About Tailwind Typography Plugin and how you can use it effectively."
+description: "Coming Soon"
 ---
 
 > This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.

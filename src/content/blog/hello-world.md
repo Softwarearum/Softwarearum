@@ -1,14 +1,12 @@
 ---
-title: "Testing Testing 123"
-description: "First Post - Hello World"
+title: "Coming Soon"
+description: "Coming Soon"
 pubDate: 2023-04-02
 heroImage: "/images/placeholder-hero.jpg"
 featured: true
 draft: false
 tags:
-    - post
-    - guide
-    - markdown
+    - Coming Soon
 ---
 
 ## Hello World
