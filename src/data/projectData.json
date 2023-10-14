@@ -1,30 +1,32 @@
 [
     {
         "id": "1",
-        "title": "Fiat Lux Labs",
+        "title": "Holos",
         "logo": "/icons/avenue-icon.png",
         "link": "Coming soon",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "On Going"
     },
     {
         "id": "2",
-        "title": "Coming soon",
+        "title": "Laid or Paid",
         "link": "Coming soon",
         "logo": "/icons/pathway-icon.png",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "On Going"
     },
     {
         "id": "3",
-        "title": "Lane",
+        "title": "Coeus",
         "link": "Coming soon",
         "logo": "/icons/Fiat-Lux-Labs-logo2.png",
         "shortExcerpt": "Coming soon"
     },
     {
         "id": "3",
-        "title": "Coming soon",
+        "title": "Glowup",
+        "link": "Coming soon",
         "logo": "/icons/articoole-icon.png",
-        "shortExcerpt": "Coming soon",
-        "badgeContent": "On Going"
+        "shortExcerpt": "Coming soon"
     }
 ]
