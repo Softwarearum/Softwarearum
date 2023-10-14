@@ -4,7 +4,7 @@ description: "Coming Soon"
 pubDate: 2023-04-02
 heroImage: "/images/placeholder-hero.jpg"
 featured: true
-draft: false
+draft: true
 tags:
     - Coming Soon
 ---

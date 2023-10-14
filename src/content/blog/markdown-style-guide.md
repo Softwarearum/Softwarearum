@@ -3,7 +3,7 @@ title: "Coming Soon"
 description: "Coming Soon"
 pubDate: 2023-04-04
 featured: true
-draft: false
+draft: true
 tags:
     - Coming Soon
 heroImage: ""

@@ -2,7 +2,7 @@
 title: Coming Soon
 pubDate: 2023-04-21
 featured: false
-draft: false
+draft: true
 tags:
     - Coming Soon
 heroImage: ""
