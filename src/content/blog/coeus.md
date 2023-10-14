@@ -6,7 +6,15 @@ draft: false
 tags:
     - Coeus
 heroImage: ""
-description: "Coeus AI"
+description: "Coeus"
 ---
 
 ## Introducing: Coeus
+
+### The Power of Predictive Analytics
+
+### Behind the Algorithms
+
+### Unlocking MRR potential 
+
+### Navigating the Funding Landscape
