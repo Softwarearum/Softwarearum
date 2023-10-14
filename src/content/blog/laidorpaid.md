@@ -1,5 +1,5 @@
 ---
-pubDate: 2023-10-13
+pubDate: 2023-08-08
 title: Laid or Paid
 featured: true
 draft: false

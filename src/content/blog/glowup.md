@@ -1,5 +1,5 @@
 ---
-pubDate: 2023-10-13
+pubDate: 2023-08-10
 title: Glow Up
 featured: true
 draft: false

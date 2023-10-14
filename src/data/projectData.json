@@ -3,14 +3,14 @@
         "id": "1",
         "title": "Holos",
         "logo": "/icons/avenue-icon.png",
-        "link": "Coming soon",
+        "link": "https://fiat-lux-labs.vercel.app/blog/holos",
         "shortExcerpt": "Coming soon",
         "badgeContent": "On Going"
     },
     {
         "id": "2",
         "title": "Laid or Paid",
-        "link": "Coming soon",
+        "link": "https://fiat-lux-labs.vercel.app/blog/laidorpaid",
         "logo": "/icons/pathway-icon.png",
         "shortExcerpt": "Coming soon",
         "badgeContent": "On Going"
@@ -18,14 +18,14 @@
     {
         "id": "3",
         "title": "Coeus",
-        "link": "Coming soon",
+        "link": "https://fiat-lux-labs.vercel.app/blog/coeus",
         "logo": "/icons/Fiat-Lux-Labs-logo2.png",
         "shortExcerpt": "Coming soon"
     },
     {
         "id": "3",
         "title": "Glowup",
-        "link": "Coming soon",
+        "link": "https://fiat-lux-labs.vercel.app/blog/glowup",
         "logo": "/icons/articoole-icon.png",
         "shortExcerpt": "Coming soon"
     }

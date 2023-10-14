@@ -1,5 +1,5 @@
 ---
-title: "Fiat Lux Labs V1.0.0"
+title: "Fiat Lux Labs"
 description: "Coming Soon"
 pubDate: 2023-04-24
 heroImage: "/images/astro-lane.png"
