@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Glow Up
-heroImage: ""
+heroImage: "/icons/glowup.png"
 description: "Glow AI"
 ---
 

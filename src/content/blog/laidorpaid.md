@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Laid or Paid
-heroImage: ""
+heroImage: "/icons/paidorlaid.png"
 description: "Laid or Paid"
 ---
 

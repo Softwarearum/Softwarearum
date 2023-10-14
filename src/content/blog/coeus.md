@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Coeus
-heroImage: ""
+heroImage: "/icons/coeus-ai.png"
 description: "Coeus"
 ---
 
