@@ -11,7 +11,7 @@ tags:
 
 ## Neophlye
 
-### Art Curation On a Gloabl Scale
+### Curating Art On a Global Scale
 
 ### Our Stats:
 
