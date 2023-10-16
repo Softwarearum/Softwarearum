@@ -10,3 +10,15 @@ tags:
 ---
 
 ## Neophlye
+
+### Art Curation On a Gloabl Scale
+
+### Our Stats:
+
+### - Onboarded 100s artists
+
+### - Reached 2.1 Million+ People
+
+### - 15 Million+ in Impressions
+
+### - Sharing Great Art To Infinty
