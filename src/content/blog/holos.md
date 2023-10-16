@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Holos
-heroImage: "/icons/holos_image.png"
+heroImage: "/images/holos_eucrasia_remove_bg.png"
 description: "Holos Making Healthcare Human Centric"
 ---
 

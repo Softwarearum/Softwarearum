@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Holos",
-        "logo": "/icons/holos_image.png",
+        "logo": "/images/holos_eucrasia_remove_bg.png",
         "link": "https://fiat-lux-labs.vercel.app/blog/holos",
         "shortExcerpt": "Coming soon",
         "badgeContent": "On Going"
