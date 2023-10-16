@@ -2,7 +2,7 @@
 title: "Neophlye"
 description: "Coming Soon"
 pubDate: 2020-01-10
-heroImage: "/images/astro-lane.png"
+heroImage: "/images/neophlye_logo.jpg"
 featured: true
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "Jaberwocky"
 description: "Coming Soon"
 pubDate: 2023-01-24
-heroImage: "/images/astro-lane.png"
+heroImage: "/images/sword-duotone.png"
 featured: true
 draft: false
 tags:

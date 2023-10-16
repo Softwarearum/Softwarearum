@@ -19,15 +19,15 @@
         "id": "3",
         "title": "Neophlye",
         "link": "https://fiat-lux-labs.vercel.app/blog/neophlye",
-        "logo": "/images/lane.png",
-        "shortExcerpt": "Coming soon",
+        "logo": "/images/neophlye_logo.jpg",
+        "shortExcerpt": "Live",
         "badgeContent": "On Going"
     },
     {
         "id": "4",
         "title": "Jabberwocky",
         "link": "https://fiat-lux-labs.vercel.app/blog/jabberwocky",
-        "logo": "/images/lane.png",
+        "logo": "/images/sword-duotone.png",
         "shortExcerpt": "Coming soon"
     },
     {
