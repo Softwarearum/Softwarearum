@@ -2,7 +2,7 @@
 pubDate: 2023-08-09
 title: Coeus
 featured: true
-draft: false
+draft: true
 tags:
     - Coeus
 heroImage: "/icons/coeus-ai.png"
