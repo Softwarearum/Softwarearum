@@ -18,7 +18,7 @@ export const SITE: Site = {
 export const SOCIALS: SocialMediaObjects = [
     {
         name: "Github",
-        href: "https://github.com/Ian-nocta",
+        href: "https://github.com/FiatluxlabsCo",
         icon: "ph:github-logo-duotone",
         title: `Follow ${SITE.author} on Github`,
         active: true
@@ -39,14 +39,14 @@ export const SOCIALS: SocialMediaObjects = [
     },
     {
         name: "LinkedIn",
-        href: "https://github.com/Ian-nocta",
+        href: "https://www.linkedin.com/in/ian-mcclue-92786515a/",
         icon: "ph:linkedin-logo-duotone",
         title: `Follow ${SITE.title} on LinkedIn`,
         active: true
     },
     {
         name: "Mail",
-        href: "mailto:ianmcclue@protonmail.com",
+        href: "mailto:ian@fiatluxlabs.co",
         title: `Send an email to ${SITE.title}`,
         icon: "ph:envelope-simple-bold",
         active: true
