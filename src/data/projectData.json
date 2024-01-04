@@ -1,46 +1,50 @@
 [
-    {  "id": "1",
+    {
+        "id": "1",
         "title": "Holos",
         "logo": "/images/Holos_eucrasia.png",
-        "link": "https://fiat-lux-labs.vercel.app/blog/holos",
+        "link": "https://www.fiatluxlabs.co/blog/holos",
         "shortExcerpt": "Prototype",
         "badgeContent": "On Going"
     },
     {
         "id": "2",
-        "title": "Laid or Paid",
-        "link": "https://fiat-lux-labs.vercel.app/blog/laidorpaid",
-        "logo": "/icons/laidorpaid.png",
-        "shortExcerpt": "Testing Alpha",
+        "title": "SciSpark",
+        "link": "https://www.fiatluxlabs.co/blog/scispark",
+        "logo": "/images/sparkles_2728.png",
+        "shortExcerpt": "In Beta",
         "badgeContent": "On Going"
     },
     {
         "id": "3",
         "title": "Neophlye",
-        "link": "https://fiat-lux-labs.vercel.app/blog/neophlye",
+        "link": "https://www.fiatluxlabs.co/blog/neophlye",
         "logo": "/images/neophlye_logo.jpg",
         "shortExcerpt": "Live",
         "badgeContent": "On Going"
     },
     {
-        "id": "4",
-        "title": "Jabberwocky",
-        "link": "https://fiat-lux-labs.vercel.app/blog/jabberwocky",
-        "logo": "/images/sword-duotone.png",
-        "shortExcerpt": "Coming soon"
-    },
-    {
-        "id": "5",
-        "title": "Coeus",
-        "link": "https://fiat-lux-labs.vercel.app/blog/coeus",
-        "logo": "/icons/coeus-ai.png",
-        "shortExcerpt": "Coming soon"
-    },
-    {
         "id": "6",
         "title": "Glowup",
-        "link": "https://fiat-lux-labs.vercel.app/blog/glowup",
+        "link": "https://www.fiatluxlabs.co/blog/glowup",
         "logo": "/icons/glowup.png",
-        "shortExcerpt": "Coming soon"
-    }    
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending"
+    },
+    {
+        "id": "7",
+        "title": "Laid or Paid",
+        "link": "https://www.fiatluxlabs.co/blog/laidorpaid",
+        "logo": "/icons/laidorpaid.png",
+        "shortExcerpt": "Testing Alpha",
+        "badgeContent": "In Testing"
+    },
+    {
+        "id": "8",
+        "title": "Stealth",
+        "link": "https://www.fiatluxlabs.co/blog/stealth",
+        "logo": "/images/shushing_alt_emoji.jpg",
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending"
+    }
 ]
