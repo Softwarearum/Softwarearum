@@ -12,7 +12,7 @@
         "title": "SciSpark",
         "link": "https://www.fiatluxlabs.co/blog/scispark",
         "logo": "/images/sparkles_2728.png",
-        "shortExcerpt": "In Beta"
+        "shortExcerpt": "In Beta",
         "badgeContent": "On Going"
     },
     {
@@ -28,34 +28,39 @@
         "title": "Jabberwocky",
         "link": "https://www.fiatluxlabs.co/blog/jabberwocky",
         "logo": "/images/sword-duotone.png",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending" // or your desired content
     },
     {
         "id": "5",
         "title": "Coeus",
         "link": "https://www.fiatluxlabs.co/blog/coeus",
         "logo": "/icons/coeus-ai.png",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending" // or your desired content
     },
     {
         "id": "6",
         "title": "Glowup",
         "link": "https://www.fiatluxlabs.co/blog/glowup",
         "logo": "/icons/glowup.png",
-        "shortExcerpt": "Coming soon"
-    }    
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending" // or your desired content
+    },
     {
         "id": "7",
         "title": "Laid or Paid",
         "link": "https://www.fiatluxlabs.co/blog/laidorpaid",
         "logo": "/icons/laidorpaid.png",
         "shortExcerpt": "Testing Alpha",
+        "badgeContent": "In Testing" // or your desired content
     },
     {
         "id": "8",
         "title": "Stealth",
         "link": "https://www.fiatluxlabs.co/blog/stealth",
         "logo": "/images/shushing_alt_emoji.jpg",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Coming soon",
+        "badgeContent": "Pending" // or your desired content
     }
 ]
