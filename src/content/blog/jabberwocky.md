@@ -4,7 +4,7 @@ description: "Coming Soon"
 pubDate: 2023-01-24
 heroImage: "/images/sword-duotone.png"
 featured: false
-draft: false
+draft: true
 tags:
     - Coming Soon
 ---
