@@ -44,7 +44,7 @@ Note: While we have been approached on multiple occasions for funding, we curren
 
 ### FAQs and How-to
 
-[Here, you can add a section addressing common questions and providing guides on how to use SciSpark.]
+Tba
 
 [^1]: first footnote. (https://www.theguardian.com/politics/2001/may/23/labour.tonyblair)
 [^2]: second footnote. (https://hackeducation.com/2015/03/12/calculators)
