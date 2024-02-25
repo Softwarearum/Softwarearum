@@ -1,7 +1,7 @@
 ---
 title: "SciSpark"
 description: "Under Development"
-pubDate: 2024-01-04
+pubDate: 2024-02-04
 heroImage: "/images/scispark_hero.png"
 featured: true
 draft: false
