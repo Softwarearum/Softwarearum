@@ -38,7 +38,7 @@ Here is a demo video [SciSpark](https://www.loom.com/share/6cc8cb382cb74b69be8c7
 
 ### How to Connect
 
-Please email us for inquiries or further information _ian@fiatluxlabs.co_ 
+Please email us for inquiries or further information _ian@nocta.ai_ 
 
 Note: While we have been approached on multiple occasions for funding, we currently have no interest in external investments. Should this change, we will notify interested parties.
 
