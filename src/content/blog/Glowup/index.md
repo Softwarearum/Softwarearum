@@ -13,7 +13,7 @@ description: "Glow AI"
 
 GlowUp was started with the idea to bring back the "party/magic" that was first felt in the early days of the internet. It truly felt like anything was possible. Over the years, this magic has been lost, and Gen Z has increasingly fallen out of love with social media tools. Having a love-hate relationship, less than a third of Gen Z said they post at least once a day due to anxiety, yet 54% of Gen Zers said they spend at least four hours daily on social media, consuming more than they create.
 
-GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate Kant's principle of treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means.
+GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate the philospher Immanuel Kant's principle of treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means.
 
 This Replicate tutorial of a popular AI API service that got 3.7 million views. However, most of the comments were frustrated by just how difficult, time consuming and non-techie friendly the experience was by the comments... 
 ![Replicate](https://raw.githubusercontent.com/IanMcClue/glowup-images/blob/main/replicate_tut.png)
