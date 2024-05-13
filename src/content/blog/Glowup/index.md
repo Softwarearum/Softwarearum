@@ -16,9 +16,9 @@ GlowUp was started with the idea to bring back the "party/magic" that was first 
 GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate Kant's principle of treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means.
 
 This Replicate tutorial of a popular AI API service that got 3.7 million views. However, most of the comments were frustrated by just how difficult, time consuming and non-techie friendly the experience was. 
-![mvp](src/content/blog/Images/Glowup_mvp.jpeg)
 
 I quickly put together a quick MVP and then made a video about it on TikTok, which got over 30,000 views. It attracted 1,100 users with a CTR of 86% and saved users 10 minutes of time, all in just 24 hours.
+![GlowUp_MVP](./Glowup_mvp.jpeg)
 
 However, this success unveiled a broader issue: the absence of user-friendly content augmentation tools, posing a significant barrier to non-technical creators. Motivated by this realization, I am committed to addressing this systemic challenge on a larger scale, letting any content creator regardless of thier technical know have access to these tools, think the Canva of augmented generated content.
 
