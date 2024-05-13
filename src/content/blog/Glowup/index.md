@@ -20,7 +20,7 @@ GlowUp is bringing back the magic within Gen Z. By equipping creators with cutti
 
 ### Unleshing Your Imagination
 
-This Replicate tutorial of a popular AI API service that got 3.7 million views. However, most of the comments were frustrated by just how difficult, time consuming and non-techie friendly the experience was by the comments... 
+This Replicate tutorial of a popular AI API service that got 3.7 million views. However, most of the comments were frustrated by just how difficult, time consuming and non-techie friendly the experience was inspired by the comments... 
 ![Replicate](https://raw.githubusercontent.com/IanMcClue/glowup-images/main/replicate_tut.png)
 
 I quickly put together a quick MVP and then made a video about it on TikTok, which got over 30,000 views. It attracted 1,100 users with a CTR of 86% and saved users 10 minutes of time, all in just 24 hours.
