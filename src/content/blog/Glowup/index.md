@@ -15,7 +15,7 @@ description: "Glow AI"
 
 ### The Social Glow 
 
-GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate the philospher Immanuel Kant's principle of _treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means._
+GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate the philospher Immanuel Kant's principle of > treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means.
 
 ### Unleshing Your Imagination
 
