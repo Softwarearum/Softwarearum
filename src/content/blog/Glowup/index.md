@@ -11,9 +11,13 @@ description: "Glow AI"
 
 ## Introducing: Glow Up
 
-GlowUp was started with the idea to bring back the "party/magic" that was first felt in the early days of the internet. It truly felt like anything was possible. Over the years, this magic has been lost, and Gen Z has increasingly fallen out of love with social media tools. Having a love-hate relationship, less than a third of Gen Z said they post at least once a day due to anxiety, yet 54% of Gen Zers said they spend at least four hours daily on social media, consuming more than they create.
+**GlowUp** was started with the idea to bring back the **"party/magic"** that was first felt in the early days of the internet. It truly felt like anything was possible. Over the years, this magic has been lost, and **Gen Z** has increasingly fallen out of love with the internet. Having a love-hate relationship, **less than a third** of Gen Z said they **post at least once a day** due to anxiety, yet **54% of Gen Zers said they spend at least four hours daily on social media**, consuming more than they create.
 
-GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate the philospher Immanuel Kant's principle of treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means.
+### The Social Glow 
+
+GlowUp is bringing back the magic within Gen Z. By equipping creators with cutting-edge tools and advocating for a culture of creation over consumption, GlowUp seeks to emulate the philospher Immanuel Kant's principle of _treating individuals with dignity and respect empowering them as ends in themselves, rather than mere means._
+
+### Unleshing Your Imagination
 
 This Replicate tutorial of a popular AI API service that got 3.7 million views. However, most of the comments were frustrated by just how difficult, time consuming and non-techie friendly the experience was by the comments... 
 ![Replicate](https://raw.githubusercontent.com/IanMcClue/glowup-images/main/replicate_tut.png)
@@ -24,11 +28,5 @@ I quickly put together a quick MVP and then made a video about it on TikTok, whi
 
 However, this success unveiled a broader issue: the absence of user-friendly content augmentation tools, posing a significant barrier to non-technical creators. Motivated by this realization, I am committed to addressing this systemic challenge on a larger scale, letting any content creator regardless of thier technical know have access to these tools, think the Canva of augmented generated content.
 
-### The Social Glow 
-coming soon
-### Unleshing Your Imagination
-coming soon
 ### Magic at your fingertips
-coming soon
-### Selfie to fantasy
 coming soon
