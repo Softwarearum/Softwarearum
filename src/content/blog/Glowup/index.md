@@ -9,7 +9,7 @@ heroImage: "/icons/glowup.png"
 description: "Glow AI"
 ---
 
-## Introducing: Glow Up
+## 😍Introducing: Glow Up
 
 **GlowUp** was started with the idea to bring back the **"party/magic"** that was first felt in the early days of the internet. It truly felt like anything was possible. Over the years, this magic has been lost, and **Gen Z** has increasingly fallen out of love with the internet. Having a love-hate relationship, **less than a third** of Gen Z said they **post at least once a day** due to anxiety, yet **54% of Gen Zers said they spend at least four hours daily on social media**, consuming more than they create.
 
@@ -29,5 +29,5 @@ I quickly put together a quick MVP and then made a video about it on TikTok, whi
 
 However, this success unveiled a broader issue: the absence of user-friendly content augmentation tools, posing a significant barrier to non-technical creators. Motivated by this realization, I am committed to addressing this systemic challenge on a larger scale, letting any content creator regardless of thier technical know have access to these tools, think the Canva of augmented generated content.
 
-### Magic at your fingertips
+### ✨Magic✨ at your fingertips
 coming soon
