@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  <img alt="Astro Lane - Fiat Lux Labs logo" src="/public/icons/S-260-logo.png" width="70" />
+  <img alt="Astro Lane - Fiat Lux Labs logo" src="/public/icons/IMG_0435.png" width="70" />
 </div>
 
 <h1 style="text-align: center">
