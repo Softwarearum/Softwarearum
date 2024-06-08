@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Phases
-heroImage: "/icons/4.png"
+heroImage: "/images/4.png"
 description: "Laid or Paid"
 ---
 
