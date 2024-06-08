@@ -2,7 +2,7 @@
 title: "Apps"
 description: "Apss"
 pubDate: 2024-06-07
-heroImage: "/images/scispark_hero.png"
+heroImage: "/images/cyclone.svg
 featured: true
 draft: false
 tags:
