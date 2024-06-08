@@ -4,7 +4,7 @@ title: About
 featured: true
 draft: false
 tags:
-    - Coeus
+    - Sofwarearum
 heroImage: "/icons/coeus-ai.png"
 description: "I"
 ---

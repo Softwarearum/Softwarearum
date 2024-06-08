@@ -35,7 +35,7 @@
     {
         "id": "5",
         "title": "Phases",
-        "link": "https://softwarearum.vercel.app/phases",
+        "link": "https://softwarearum.vercel.app/blog/phases",
         "logo": "/images/IMG_0424.png"
         
         
@@ -43,7 +43,7 @@
     {
         "id": "6",
         "title": "Classified",
-        "link": "https://softwarearum.vercel.app/classified",
+        "link": "https://softwarearum.vercel.app/blog/classified",
         "logo": "/images/IMG_0427.jpeg",
         "shortExcerpt": "Sensitive"
         
