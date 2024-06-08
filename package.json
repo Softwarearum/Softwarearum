@@ -2,7 +2,7 @@
   "name": "astro-lane",
   "type": "module",
   "version": "1.0.0",
-  "description": "Lane - A personal portfolio landing template for developers and designers. Made by Fiat Lux Labs",
+  "description": "Softwarearu portfolio page. Made by Fiat Lux Labs",
   "main": "index.astro",
   "private": false,
   "keywords": [
@@ -17,8 +17,8 @@
     "tailwindcss",
     "tailwind"
   ],
-  "author": "Fiat Lux Labs - Ian McClue",
-  "homepage": "https://www.avenuelabs.co/",
+  "author": "Fiat Lux Labs",
+  "homepage": "https://softwarearum.vercel.app/",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

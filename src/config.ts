@@ -3,13 +3,13 @@
 import type { Site, SocialMediaObjects } from "./types";
 
 export const SITE: Site = {
-    siteUrl: "https:/www.fiatluxlabs.co/", // Always put "/" at the end of the URL
-    author: "Ian McClue | Fiat Lux Labs",
-    desc: "A project portfolio made by Fiat Lux Labs.",
-    title: "Fiat Lux Labs | Project Portfolio",
-    ogImage: "images/astro-lane.png",
+    siteUrl: "https://softwarearum.vercel.app/", // Always put "/" at the end of the URL
+    author: "Ian McClue | Softwarearum",
+    desc: "Softwarearum Website",
+    title: "Softwarearum | Project Portfolio",
+    ogImage: "images/S..png",
     keywords:
-        "Project portfolio, landing page, Fiat Lux Labs",
+        "Project portfolio, landing page, Softwarearum",
     postPerPage: 3
 };
 
