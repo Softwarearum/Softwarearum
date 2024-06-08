@@ -28,7 +28,7 @@
         "title": "Four",
         "logo": "/images/Holos_eucrasia.png",
         "link": "https://fiat-lux-labs-tmp.vercel.app/blog/holos",
-        "shortExcerpt": "Prototype"
+        "shortExcerpt": "Inactive"
         
     },
     {
@@ -36,7 +36,7 @@
         "title": "Five",
         "link": "https://fiat-lux-labs-tmp.vercel.app/laidorpaid",
         "logo": "/icons/laidorpaid.png",
-        "shortExcerpt": "Testing Alpha"
+        "shortExcerpt": "Inactive"
         
     },
     {
@@ -44,7 +44,7 @@
         "title": "Six",
         "link": "https://fiat-lux-labs-tmp.vercel.app/stealth",
         "logo": "/images/shushing_alt_emoji.jpg",
-        "shortExcerpt": "Coming soon"
+        "shortExcerpt": "Inactive"
         
     }
 ]
