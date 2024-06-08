@@ -4,14 +4,15 @@
         "title": "About",
         "link": "https://softwarearum.vercel.app/blog/about",
         "logo": "/images/IMG_0417.png",
+        "shortExcerpt": "Lore",
         "badgeContent": "On Going"   
     },
     {
         "id": "2",
         "title": "Team",
         "link": "https://softwarearum.vercel.app/blog/team",
-        "logo": "/images/I.png",
-        "shortExcerpt": "Lore"
+        "logo": "/images/I.png"
+        
         
     },
     {
