@@ -7,7 +7,7 @@
         "badgeContent": "On Going"   
     },
     {
-        "id": "3",
+        "id": "2",
         "title": "Team",
         "link": "https://softwarearum.vercel.app/blog/team",
         "logo": "/images/I.png",
@@ -15,7 +15,7 @@
         
     },
     {
-        "id": "2",
+        "id": "3",
         "title": "Apps",
         "link": "https://softwarearum.vercel.app/blog/products",
         "logo": "/images/IMG_0420.png",
@@ -24,7 +24,7 @@
     
     },
     {
-        "id": "6",
+        "id": "4",
         "title": "Philosophy",
         "logo": "/images/IMG_0422.png",
         "link": "https://softwarearum.vercel.app/blog/philosophy",
@@ -40,7 +40,7 @@
         
     },
     {
-        "id": "4",
+        "id": "6",
         "title": "Classified",
         "link": "https://softwarearum.vercel.app/classified",
         "logo": "/images/IMG_0427.jpeg",
