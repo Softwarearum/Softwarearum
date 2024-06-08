@@ -1,7 +1,7 @@
 ---
-title: "Stealth"
+title: "Classified"
 description: "Coming Soon"
-pubDate: 2024-01-04
+pubDate: 2024-06-07
 heroImage: "/images/shushing_alt_emoji.jpg"
 featured: true
 draft: false
@@ -10,3 +10,7 @@ tags:
 ---
 
 ## Classified 
+
+For members of the team only. 
+
+RESRICTED ACCESS
