@@ -6,7 +6,7 @@ draft: false
 tags:
     - Sofwarearum
 heroImage: "/icons/S-260-logo.png"
-description: "I"
+description: "About"
 ---
 
 ## About
