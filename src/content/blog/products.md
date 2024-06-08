@@ -2,7 +2,7 @@
 title: "Apps"
 description: "Apss"
 pubDate: 2024-06-07
-heroImage: "/images/cyclone.svg
+heroImage: "/images/cyclone.png
 featured: true
 draft: false
 tags:
