@@ -10,7 +10,7 @@
     {
         "id": "2",
         "title": "Team",
-        "link": "https://fiat-lux-labs-tmp.vercel.app/blog/scispark",
+        "link": "https://softwarearum.vercel.app/blog/team",
         "logo": "/images/I.png",
         "shortExcerpt": "Prelude",
         "badgeContent": "On Going"
@@ -18,23 +18,23 @@
     {
         "id": "3",
         "title": "Apps",
-        "link": "https://fiat-lux-labs-tmp.vercel.app/blog/neophlye",
+        "link": "https://softwarearum.vercel.app/blog/products",
         "logo": "/images/IMG_0420.png",
         "shortExcerpt": "Prelude"
     
     },
     {
         "id": "4",
-        "title": "Philosphy",
+        "title": "Philosophy",
         "logo": "/images/IMG_0422.png",
-        "link": "https://fiat-lux-labs-tmp.vercel.app/blog/holos",
+        "link": "https://softwarearum.vercel.app/blog/philosophy",
         "shortExcerpt": "Inactive"
         
     },
     {
         "id": "5",
         "title": "Phases",
-        "link": "https://fiat-lux-labs-tmp.vercel.app/laidorpaid",
+        "link": "https://softwarearum.vercel.app/phases",
         "logo": "/images/IMG_0424.png",
         "shortExcerpt": "Inactive"
         
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "title": "Classified",
-        "link": "https://fiat-lux-labs-tmp.vercel.app/stealth",
+        "link": "https://softwarearum.vercel.app/classified",
         "logo": "/images/IMG_0427.jpeg",
         "shortExcerpt": "Inactive"
         
