@@ -21,6 +21,7 @@ const sortedPosts = posts
     .filter((post) => post.data.featured == true)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .slice(0, 5);
+---
 
 <Layout
     title="Softwarearum"
@@ -51,9 +52,9 @@ const sortedPosts = posts
             class="content text-3xl md:text-3xl font-medium leading-8 lg:leading-10 tracking-tight lg:tracking-tighter text-neutral-500 mb-8 lg:mb-4"
         >
             💻 Hardware ≡ Vessel
-
+            <br />
             🌀 Software ≡ Soul  
-
+            <br />
             💍 Let us make the reunion of both magical again!
         </div>
         <!--
@@ -86,7 +87,7 @@ const sortedPosts = posts
                     projectData.map((project) => (
                         <Card
                             key={project.id}
-                            className="col-span-1"
+                            class="col-span-1"
                             link={project.link}
                             target="_blank"
                         >
@@ -108,10 +109,10 @@ const sortedPosts = posts
                                     height={80}
                                 />
                                 <div class="card-content absolute bottom-8 left-6 right-6">
-                                    <CardHeader class="">
+                                    <CardHeader>
                                         {project.title}
                                     </CardHeader>
-                                    <div class="content break-words  text-3xl font-medium leading-10 tracking-tight lg:tracking-tighter text-neutral-500 ">
+                                    <div class="content break-words text-3xl font-medium leading-10 tracking-tight lg:tracking-tighter text-neutral-500">
                                         <p>{project.shortExcerpt}</p>
                                     </div>
                                 </div>
@@ -154,7 +155,7 @@ const sortedPosts = posts
                                             </span>
                                         </span>
                                     </span>
-                                    <span class="text-neutral-500 line-clamp-2 ">
+                                    <span class="text-neutral-500 line-clamp-2">
                                         {post.data.description}
                                     </span>
                                 </span>
@@ -182,10 +183,10 @@ const sortedPosts = posts
             <ul class="list-none space-y-5">
                 {
                     tags.map((tag) => (
-                        <li class={`inline-block my-3 mx-1 underline-offset-8`}>
+                        <li class="inline-block my-3 mx-1 underline-offset-8">
                             <a
                                 href={`/tags/${tag.toLowerCase()}`}
-                                class={`text-lg pr-2 flex flex-wrap items-center relative underline hover:-top-0.5 hover:text-skin-accent focus-visible:p-1`}
+                                class="text-lg pr-2 flex flex-wrap items-center relative underline hover:-top-0.5 hover:text-skin-accent focus-visible:p-1"
                             >
                                 <Icon name="mdi:hashtag" class="w-6 h-6" />
                                 &nbsp;<span>{tag.toLowerCase()}</span>
