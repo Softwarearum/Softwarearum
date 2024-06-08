@@ -4,7 +4,6 @@
         "title": "About",
         "link": "https://softwarearum.vercel.app/blog/about",
         "logo": "/images/IMG_0417.png",
-        "shortExcerpt": "Live",
         "badgeContent": "On Going"   
     },
     {
@@ -12,15 +11,16 @@
         "title": "Team",
         "link": "https://softwarearum.vercel.app/blog/team",
         "logo": "/images/I.png",
-        "shortExcerpt": "Prelude",
-        "badgeContent": "On Going"
+        "shortExcerpt": "Lore"
+        
     },
     {
         "id": "3",
         "title": "Apps",
         "link": "https://softwarearum.vercel.app/blog/products",
         "logo": "/images/IMG_0420.png",
-        "shortExcerpt": "Prelude"
+        "shortExcerpt": "Prelude",
+        "badgeContent": "On Going"
     
     },
     {
@@ -28,15 +28,15 @@
         "title": "Philosophy",
         "logo": "/images/IMG_0422.png",
         "link": "https://softwarearum.vercel.app/blog/philosophy",
-        "shortExcerpt": "Inactive"
+        "badgeContent": "On Going"
         
     },
     {
         "id": "5",
         "title": "Phases",
         "link": "https://softwarearum.vercel.app/phases",
-        "logo": "/images/IMG_0424.png",
-        "shortExcerpt": "Inactive"
+        "logo": "/images/IMG_0424.png"
+        
         
     },
     {
@@ -44,7 +44,7 @@
         "title": "Classified",
         "link": "https://softwarearum.vercel.app/classified",
         "logo": "/images/IMG_0427.jpeg",
-        "shortExcerpt": "Inactive"
+        "shortExcerpt": "Sensitive"
         
     }
 ]
