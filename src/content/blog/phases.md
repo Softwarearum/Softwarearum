@@ -6,7 +6,7 @@ draft: false
 tags:
     - Phases
 heroImage: "/images/4.png"
-description: "Laid or Paid"
+description: "Phases"
 ---
 
 ## Phases
