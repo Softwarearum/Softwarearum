@@ -10,7 +10,7 @@ Welcome to the Softwarearum website repo
 
 <hr>
 
-![softwarearum](/public/images/magical_again.png)
+![softwarearum](/public/images/63559157-4C2C-4FDE-A349-14AFC390C2DF.png)
 
 ## Feedback and Suggestions
 
