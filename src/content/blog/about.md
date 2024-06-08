@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - Sofwarearum
-heroImage: "/icons/coeus-ai.png"
+heroImage: "/icons/S-260-logo.png"
 description: "I"
 ---
 

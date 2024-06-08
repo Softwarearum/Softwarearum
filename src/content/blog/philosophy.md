@@ -5,7 +5,7 @@ featured: true
 draft: false
 tags:
     - philosophy
-heroImage: "/images/holos_eucrasia_remove_bg.png"
+heroImage: "/images/3.png"
 description: "Softwarearum guiding philosophy"
 ---
 

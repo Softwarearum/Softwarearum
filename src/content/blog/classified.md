@@ -2,7 +2,7 @@
 title: "Classified"
 description: "Coming Soon"
 pubDate: 2024-06-07
-heroImage: "/images/shushing_alt_emoji.jpg"
+heroImage: "/images/5.png"
 featured: true
 draft: false
 tags:
