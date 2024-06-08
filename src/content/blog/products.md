@@ -1,6 +1,6 @@
 ---
 title: "Apps"
-description: "Apss"
+description: "Apps"
 pubDate: 2024-06-07
 heroImage: "/images/1.png"
 featured: true
