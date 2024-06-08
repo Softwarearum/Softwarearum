@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  <img alt="Astro Lane - Fiat Lux Labs logo" src="/public/icons/avenue-icon-alt.png" width="70" />
+  <img alt="Astro Lane - Fiat Lux Labs logo" src="/public/icons/S-260-logo.png" width="70" />
 </div>
 
 <h1 style="text-align: center">
@@ -10,17 +10,7 @@ Welcome to the Softwarearum website repo
 
 <hr>
 
-![Astro Lane Mockup](/public/images/astro-lane.png)
-
-## About
-
-Softwarearum was founded on the simple philosophy of > As Above, So Below
-
-![Astro Lane Lighthouse Score](/astro-lane-lighthouse-score.png)
-
-## Phases:
-
--   Coming soon! I - VI
+![softwarearum](/public/images/magical_again.png)
 
 ## Feedback and Suggestions
 
