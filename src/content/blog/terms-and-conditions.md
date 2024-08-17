@@ -53,4 +53,4 @@ The Developer reserves the right to modify these Terms at any time, in its sole 
 
 ## **📩 Contact Information**
 
-If you have any questions or concerns about these Terms or the App, please contact the Developer at s[oftwarearum@protonmail.com](mailto:Softwarearum@protonmail.com).
+If you have any questions or concerns about these Terms or the App, please contact the Developer at [softwarearum@protonmail.com](mailto:Softwarearum@protonmail.com).
