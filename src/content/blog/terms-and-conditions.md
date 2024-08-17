@@ -8,6 +8,7 @@ tags:
 heroImage: "/icons/S-260-logo.png"
 description: "Terms and Conditons"
 ---
+
 ## Terms and Conditons
 
 These Terms and Conditions ("**Terms**") govern your use of LYKALOCAL ("**App**"), developed by SOFTWAREARUM ("**Developer**"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
@@ -53,5 +54,3 @@ The Developer reserves the right to modify these Terms at any time, in its sole 
 ## **📩 Contact Information**
 
 If you have any questions or concerns about these Terms or the App, please contact the Developer at s[oftwarearum@protonmail.com](mailto:Softwarearum@protonmail.com).
-
-This Mobile App Terms and Conditions template is intended to be a starting point for your app's terms. Remember to customize the template to fit your specific situation and consult with legal counsel if necessary.
