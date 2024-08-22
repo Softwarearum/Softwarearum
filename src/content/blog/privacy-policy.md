@@ -1,5 +1,5 @@
 ---
-pubDate: 2023-08-22
+pubDate: 2024-08-22
 title: Privacy Policy
 featured: true
 draft: false
